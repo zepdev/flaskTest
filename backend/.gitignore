@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Environments
+.env
+
+# Python
+__pycache__/
+
+# Flask stuff:
+instance/
+.webassets-cache
